@@ -1,0 +1,18 @@
+.wrapper_vertical_menu .vertical-megamenu > li > a {
+    font-family: Cairo !important;
+}
+
+.mega-left-title {
+    font-family: Cairo !important;
+}
+
+.nav-pills >li > a {
+    font-family: Cairo !important;
+}
+.footer .footer-menu .widget_nav_menu ul.menu > li > a {
+    font-family: Cairo !important;
+}
+.rtl .footer .footer-menu .contact-address .info-footer .info-footer-adres li span {
+    float: right;
+    font-family: Cairo !important;
+}
